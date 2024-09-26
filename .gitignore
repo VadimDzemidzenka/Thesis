@@ -2,10 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+pytest.ini
 # C extensions
 *.so
-
+allure-result
+pytest.ini
 # Distribution / packaging
 .Python
 build/
